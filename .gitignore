@@ -1,0 +1,22 @@
+# Python
+# Byte-code files
+*.pyc
+__pycache__/
+# Distillery products
+*.whl
+*.tar.gz
+# Environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+# Editor & OS files
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+# Logs and temp files
+*.log
+tmp/
